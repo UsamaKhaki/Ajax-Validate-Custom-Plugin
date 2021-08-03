@@ -7,7 +7,7 @@ Plugin development of Common Validation with ajax, using some plugins i.e. jQuer
 `js-file` https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js
 
 ### jQuery Confirm
-`js-file` https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js
+`js-file` https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js  
 `css-file` https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css
 
 ### jQuery Loading Overlay
